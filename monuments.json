@@ -1,0 +1,32 @@
+{
+  "monuments": [
+    {
+      "id": "1",
+      "name": "Taj Mahal",
+      "description": "A white marble mausoleum",
+      "city": "Agra",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/bowutuUL8lQd4ymvjhZnGYKnzPY=/fit-in/1200x0/filters:focal(1471x1061:1472x1062)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler%2Fb6%2F30%2Fb630b48b-7344-4661-9264-186b70531bdc%2Fistock-478831658.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Eiffel Tower",
+      "description": "An iron lattice tower",
+      "city": "Paris",
+      "image": "https://vagabundler.com/wp-content/uploads/2019/06/P3160166-Copy.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Red Fort",
+      "description": "A palace fort of Shahjahanabad",
+      "city": "New Delhi",
+      "image": "https://pnccs.edu.in/wp-content/uploads/2024/03/image-4.png"
+    },
+    {
+      "id": 1740765303021,
+      "name": "burj",
+      "description": "tall",
+      "city": "abu",
+      "image": "https://lh5.googleusercontent.com/p/AF1QipP20BOM772Kb432Qh96O9xO7LOo8rRHxIPbyiy1=w270-h312-n-k-no"
+    }
+  ]
+}
